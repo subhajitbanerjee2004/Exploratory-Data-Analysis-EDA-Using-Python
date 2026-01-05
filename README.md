@@ -1,7 +1,9 @@
 # Exploratory-Data-Analysis-EDA-Using-Python
+
 Tools / Libraries: Python , Pandas , Matplotlib, Seaborn.
-Objective: To analyze Diwali sales data to uncover insights about customer behavior and optimize marketing
-strategy.
+
+Objective: To analyze Diwali sales data to uncover insights about customer behavior and optimize marketing strategy.
+
 Features:
 • Data cleaning, transformation and null-value handling were performed to ensure data consistency.
 • Performing exploratory analysis to identify high-performing product categories, age groups, and regions.
